@@ -14,11 +14,11 @@
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
-    --pios-glow-hue:        180;
+    --pios-glow-hue:        120;
     --pios-glow-intensity:  1;
     --pios-spacing:         1;
     --pios-accent-hue:      0;
-    --pios-title-text:      "piOS v2.1.01p";
+    --pios-title-text:      "BoogieOS v2.1.01p";
 
     --crt-stripe:   block;
     --crt-scanline: none;   /* ⛐ This effect is performance-intensive. */
@@ -26,10 +26,10 @@
 }
 
 .theme-dark {
-    --pios-background-color:    #000000;
-    --pios-bright-color:        #FFFFFF;
-    --pios-middle-color:        #D3D3D3;
-    --pios-dim-color:           #808080;
+    --pios-background-color:    #607D3B;
+    --pios-bright-color:        #728C69;
+    --pios-middle-color:        #607D3B;
+    --pios-dim-color:           #728C69;
 }
 
 .theme-light {
