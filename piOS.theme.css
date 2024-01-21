@@ -27,9 +27,9 @@
 
 .theme-dark {
     --pios-background-color:    #004c00;
-    --pios-bright-color:        #728C69;
-    --pios-middle-color:        #3A5311;
-    --pios-dim-color:           #001900;
+    --pios-bright-color:        #D0F0C0;
+    --pios-middle-color:        #A9BA9D;
+    --pios-dim-color:           #000000;
 }
 
 .theme-light {
