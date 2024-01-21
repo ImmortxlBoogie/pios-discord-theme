@@ -20,7 +20,7 @@
     --pios-accent-hue:      120;
     --pios-title-text:      "BoogieOS v2.1.01p";
 
-    --crt-stripe:   block;
+    --crt-stripe:   none;
     --crt-scanline: none;   /* ⛐ This effect is performance-intensive. */
     --crt-flicker:  none;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 }
